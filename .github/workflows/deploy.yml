@@ -39,6 +39,8 @@ jobs:
         with:
           node-version: 20
           cache: npm # or pnpm / yarn
+      - name: Add VitePress
+        run: npm add -D vitepress
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
