@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Caspar Bruenech"
   text: "A site where I might, or might not, write about things I find interesting."
-  tagline: My great project tagline
+  tagline: Under construction
   actions:
     - theme: brand
       text: Markdown Examples
