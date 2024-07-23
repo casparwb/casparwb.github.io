@@ -1,25 +1,5 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "Caspar Bruenech"
-  text: "A site where I might, or might not, write about things I find interesting."
-  tagline: Under construction
-  actions:
-    - theme: brand
-      text: Posts
-      link: /posts/
-    # - theme: alt
-    #   text: API Examples
-    #   link: /api-examples
-
-# features:
-#   - title: Feature A
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+title: Caspar W. Bruenech
+subtext: A site where I might, or might not, write about things I find interesting.
+index: true
 ---
-
